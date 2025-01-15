@@ -1,7 +1,6 @@
-## Hi there 👋
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, somos el equipo de OT Programación 👋
-### Desarrolladores de Software
 
+# ![https://www.gruposavia.eu/] Hola, somos el equipo de OT Programación 👋
+### Desarrolladores de Software
 ![https://github.com/OT-PROG](./OT-PROG_github_profile.png)
 
 Somos una ingeniería integral de servicios llevados a término por las personas que componen SAVIA.
