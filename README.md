@@ -1,7 +1,6 @@
-
-# ![https://www.gruposavia.eu/](https://cdn.prod.website-files.com/62a954c66356c918f6542a74/63cdb6148a1d4b4abf265fdf_logo-savia.svg) Hola, somos el equipo de OT Programación 👋
-### Desarrolladores de Software
-![https://github.com/OT-PROG](./OT-PROG_github_profile.png)
+# Hola, somos el equipo de OT Programación 👋
+## Desarrolladores de Software 
+![[https://github.com/OT-PROG](./OT-PROG_github_profile.png)]
 
 Somos una ingeniería integral de servicios llevados a término por las personas que componen SAVIA.
 
