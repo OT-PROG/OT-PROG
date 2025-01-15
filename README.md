@@ -1,5 +1,5 @@
 
-# ![https://www.gruposavia.eu/] Hola, somos el equipo de OT Programación 👋
+# ![https://www.gruposavia.eu/](https://cdn.prod.website-files.com/62a954c66356c918f6542a74/63cdb6148a1d4b4abf265fdf_logo-savia.svg) Hola, somos el equipo de OT Programación 👋
 ### Desarrolladores de Software
 ![https://github.com/OT-PROG](./OT-PROG_github_profile.png)
 
@@ -11,7 +11,7 @@ Es por ello, por lo que las PersonasSavias son el centro, de todas nuestras actu
 
 ## Encuéntranos en:
 
-[![Web](https://cdn.prod.website-files.com/62a954c66356c918f6542a74/63cdb6148a1d4b4abf265fdf_logo-savia.svg)](https://www.gruposavia.eu/)
+[![Web](https://cdn.prod.website-files.com/62a954c66356c918f6542a74/65bb9b78a97183692bf57d93_Savia_Home.jpg)](https://www.gruposavia.eu/)
 
 ## Contacto y apoyo:
 
